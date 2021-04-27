@@ -26,6 +26,8 @@
       <change beforePath="$PROJECT_DIR$/../goit-react-hw-03-phonebook/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-react-hw-03-phonebook/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../goit-react-hw-03-phonebook1" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-react-hw-03-phonebook1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../goit-react-hw-04-movies" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-react-hw-04-movies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw-1" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson3" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3" afterDir="false" />
@@ -86,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619550547142</updated>
-      <workItem from="1619550548356" duration="9566000" />
+      <workItem from="1619550548356" duration="9735000" />
     </task>
     <servers />
   </component>
