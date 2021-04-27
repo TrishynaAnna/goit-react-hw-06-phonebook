@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b3c59bc-0882-4176-a3df-1fe62993041c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/button/Button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/imageGallery/ImageGallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/imageGallery/ImageGallery.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/imageGallery/imageGalleryItem/ImageGalleryItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/imageGallery/imageGalleryItem/ImageGalleryItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/loader/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/loader/Loader.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/modal/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/modal/Modal.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/searchbar/Searchbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/searchbar/Searchbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/components/services/Api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feedback" beforeDir="false" afterPath="$PROJECT_DIR$/../feedback" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goit-react-hw-01-components" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-react-hw-01-components" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/.idea/goit-react-hw-03-image-finder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/.idea/goit-react-hw-03-image-finder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-react-hw-03-image-finder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goit-react-hw-03-phonebook/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-react-hw-03-phonebook/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goit-react-hw-03-phonebook1" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-react-hw-03-phonebook1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goit-react-hw-04-movies" beforeDir="false" afterPath="$PROJECT_DIR$/../goit-react-hw-04-movies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw-1" beforeDir="false" afterPath="$PROJECT_DIR$/../hw-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phonebook" beforeDir="false" afterPath="$PROJECT_DIR$/../phonebook" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux" beforeDir="false" afterPath="$PROJECT_DIR$/../redux" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rlVDp9JrzTuqRDclbQ17Vd4h1H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b3c59bc-0882-4176-a3df-1fe62993041c" name="Default Changelist" comment="" />
+      <created>1619550547142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619550547142</updated>
+      <workItem from="1619550548356" duration="9566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
